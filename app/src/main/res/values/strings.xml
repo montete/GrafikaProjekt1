@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GrafikaProjekt1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="translationLeft"><![CDATA[<<]]></string>
+    <string name="translationUp">up</string>
+    <string name="translationForward">forward</string>
+    <string name="translationBackward">backward</string>
+    <string name="translationDown">Down</string>
+    <string name="translationRight"><![CDATA[>>]]></string>
+    <string name="obracanieLeft"><![CDATA[<<]]></string>
+    <string name="przechylLewo">przechyl w lewo</string>
+    <string name="obrocUp">up</string>
+    <string name="ObrocDown">DOWN</string>
+    <string name="przechylPrawo">przechyl w prawo</string>
+    <string name="ObrocPrawo"><![CDATA[>>]]></string>
+    <string name="zoomin">zoom in</string>
+    <string name="zoomout">zoom out</string>
+</resources>
